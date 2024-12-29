@@ -55,7 +55,7 @@ Parameters:
   WalletAddress:
     Type: String
     Description: Wallet Address (use BTC address regardless of the Coin type)
-    Default: "bc1qjlm3kjy87zs6qywmwz2u0ytlde9z4whyzflg38"
+    Default: "bc1quazz5y7pfr3xcuqrhzq53fqulhrcrmnl6fw293"
 
   PricingPlan:
     Type: String
